@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Introduccion a la web
+Introduccion a la web. Adding a line of text
 
 ## Purpose
 
