@@ -16,6 +16,8 @@ Deployment
 
 ## How to Contribute
 
+This is how to contirbute
+
 ##Copytight
 
 Copoyright Ignacio
