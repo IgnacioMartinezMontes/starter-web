@@ -20,5 +20,5 @@ This is how to contirbute
 
 ##Copytight
 
-Copoyright Ignacio
+Copoyright Ignacio. All rights reserved
 
